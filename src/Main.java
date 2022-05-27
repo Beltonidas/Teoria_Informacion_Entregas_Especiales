@@ -69,6 +69,8 @@ public class Main {
             listCodigos.getCodigoSimple(i).imprimirCodigo();
         }
 
+        
+
         /*ListaTupla listTuplas = new ListaTupla();
         Tupla tupla1 = new Tupla(0.5);
         tupla1.addPos(0);
