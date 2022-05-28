@@ -128,4 +128,27 @@ public class GestorArchivos {
             //nuevaTupla.addPos(i);
         }
     }
+
+    public int cantRepetidos(int dato){
+        for (int i = 0; i < simbolos.size(); i++) {
+            if (dato == matrizDato[0][i])
+                return matrizDato[1][i];
+        }
+        return -1;
+    }
+
+    public int calcularEspacio (ListaCodigo listaCodigos){
+        int suma = 0;
+        int repeticiones;
+        int valorTupla;
+        for (int i = 0; i< listaCodigos.getListaCodigos().size(); i++){
+            //debería buscar la tupla asociada, el nuemro
+            valorTupla = listaCodigos.getListaCodigos().get(i).getTuplaAsociada().getSimboloAsociado();
+            //ir a buscar en la matriz para saber cuantas veces se repite
+            repeticiones = cantRepetidos(valorTupla);
+            //luego multiplicar la longitud de L(i) * lo que me retorna la suma
+            suma = suma + (repeticiones* listaCodigos.getListaCodigos().get(i).getCantBits());
+        }
+        return suma;
+    }
 }

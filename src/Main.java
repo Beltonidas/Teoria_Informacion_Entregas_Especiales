@@ -69,6 +69,10 @@ public class Main {
             listCodigos.getCodigoSimple(i).imprimirCodigo();
         }
 
+        System.out.println("----Cantidad de bits---");
+        int cantidad = gestorArchivos.calcularEspacio(listCodigos);
+        System.out.println("La cantidad de bits es: "+ cantidad);
+
         /*ListaTupla listTuplas = new ListaTupla();
         Tupla tupla1 = new Tupla(0.5);
         tupla1.addPos(0);
