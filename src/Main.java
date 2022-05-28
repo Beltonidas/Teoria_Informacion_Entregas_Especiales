@@ -48,7 +48,7 @@ public class Main {
         gestorArchivos.generarListaTuplas(listTuplas);
         //Ordeno las tuplas de mayor a menor y luego acomodo los incides para los arreglos de Lista codigo
         listTuplas.sort();
-        listTuplas.imprimir();
+        //listTuplas.imprimir();
 
         //Genero las codigos a partir de la cantidad de tuplas que tengo
         ListaCodigo listCodigos = new ListaCodigo();
