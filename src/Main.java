@@ -25,7 +25,7 @@ public class Main {
 
         /*------CLASE GESTORARCHIVOS--------*/
         GestorArchivos gestorArchivos = new GestorArchivos();
-        gestorArchivos.leerDatos("C:/GitHub/Teoria_Informacion/L-gante.txt");
+        gestorArchivos.leerDatos("C:/GitHub/Teoria_Informacion/Beethoven.txt");
         System.out.println(gestorArchivos.cantSimbolos());
         int cantidadSimbolos = gestorArchivos.cantSimbolos();
         //Necesito saber la cantidad de simbolos distintos que tengo para poder generar mi matriz
@@ -40,7 +40,7 @@ public class Main {
 
         //Funcion que opera con la matriz
         gestorArchivos.operarDatos();
-        gestorArchivos.imprimirMatriz();
+        //gestorArchivos.imprimirMatriz();
 
 
         /*------CLASE lISTA TUPLAS--------*/
@@ -65,9 +65,9 @@ public class Main {
 
        System.out.println("----Los codigos---");
 
-        for (int i = 0; i < listCodigos.getListaCodigos().size(); i++) {
+        /*for (int i = 0; i < listCodigos.getListaCodigos().size(); i++) {
             listCodigos.getCodigoSimple(i).imprimirCodigo();
-        }
+        }*/
 
         System.out.println("----Cantidad de bits---");
         int cantidad = gestorArchivos.calcularEspacio(listCodigos);

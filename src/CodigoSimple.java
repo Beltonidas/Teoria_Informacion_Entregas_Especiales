@@ -48,4 +48,8 @@ public class CodigoSimple {
         System.out.println("Representación del simbolo : "+ tuplaAsociada.getSimboloAsociado());
     }
 
+    public int getCantBits(){
+        return codigoBinario.size();
+    }
+
 }
