@@ -40,7 +40,7 @@ public class Main {
 
         //Funcion que opera con la matriz
         gestorArchivos.operarDatos();
-        //gestorArchivos.imprimirMatriz();
+        gestorArchivos.imprimirMatriz();
 
 
         /*------CLASE lISTA TUPLAS--------*/
@@ -65,62 +65,13 @@ public class Main {
 
        System.out.println("----Los codigos---");
 
-        /*for (int i = 0; i < listCodigos.getListaCodigos().size(); i++) {
+        for (int i = 0; i < listCodigos.getListaCodigos().size(); i++) {
             listCodigos.getCodigoSimple(i).imprimirCodigo();
-        }*/
+        }
 
         System.out.println("----Cantidad de bits---");
         int cantidad = gestorArchivos.calcularEspacio(listCodigos);
         System.out.println("La cantidad de bits es: "+ cantidad);
-
-        /*ListaTupla listTuplas = new ListaTupla();
-        Tupla tupla1 = new Tupla(0.5);
-        tupla1.addPos(0);
-
-        Tupla tupla2 = new Tupla(0.2);
-        tupla2.addPos(1);
-
-        Tupla tupla3 = new Tupla(0.1);
-        tupla3.addPos(2);
-
-        Tupla tupla4 = new Tupla(0.1);
-        tupla4.addPos(3);
-
-        Tupla tupla5 = new Tupla(0.1);
-        tupla5.addPos(4);
-
-        listTuplas.addTupla(tupla1);
-        listTuplas.addTupla(tupla2);
-        listTuplas.addTupla(tupla3);
-        listTuplas.addTupla(tupla4);
-        listTuplas.addTupla(tupla5);
-
-
-
-        CodigoSimple code1 = new CodigoSimple();
-        CodigoSimple code2 = new CodigoSimple();
-        CodigoSimple code3 = new CodigoSimple();
-        CodigoSimple code4 = new CodigoSimple();
-        CodigoSimple code5 = new CodigoSimple();
-        ListaCodigo listCodigos = new ListaCodigo();
-        listCodigos.agregarCodigoSimple(code1);
-        listCodigos.agregarCodigoSimple(code2);
-        listCodigos.agregarCodigoSimple(code3);
-        listCodigos.agregarCodigoSimple(code4);
-        listCodigos.agregarCodigoSimple(code5);
-
-
-        listTuplas.ejecutar(listCodigos);
-
-
-        System.out.println("----Los codigos---");
-        listCodigos.getCodigoSimple(0).imprimirCodigo();
-        listCodigos.getCodigoSimple(1).imprimirCodigo();
-        listCodigos.getCodigoSimple(2).imprimirCodigo();
-        listCodigos.getCodigoSimple(3).imprimirCodigo();
-        listCodigos.getCodigoSimple(4).imprimirCodigo();*/
-
-
 
     }
 }
