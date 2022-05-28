@@ -25,7 +25,7 @@ public class Main {
 
         /*------CLASE GESTORARCHIVOS--------*/
         GestorArchivos gestorArchivos = new GestorArchivos();
-        gestorArchivos.leerDatos("C:/GitHub/Teoria_Informacion/Beethoven.txt");
+        gestorArchivos.leerDatos("C:/GitHub/Teoria_Informacion/Prueba.txt");
         System.out.println(gestorArchivos.cantSimbolos());
         int cantidadSimbolos = gestorArchivos.cantSimbolos();
         //Necesito saber la cantidad de simbolos distintos que tengo para poder generar mi matriz
@@ -72,6 +72,37 @@ public class Main {
         System.out.println("----Cantidad de bits---");
         int cantidad = gestorArchivos.calcularEspacio(listCodigos);
         System.out.println("La cantidad de bits es: "+ cantidad);
+
+        double entropia = gestorArchivos.calcularEntropia();
+        System.out.println("Entropia: "+ entropia);
+
+        double longMedia = gestorArchivos.calcularLongitudMedia(listCodigos);
+        System.out.println("longMedia: "+ longMedia);
+
+
+        /*import math
+        from operator import truediv
+
+# Estructuras de datos
+        listPi = [0.6, 0.1, 0.3];
+        listLog= [0,0,0];
+
+#listPi = [1/22,1/22,18/44, 6/44, 1/11, 1/11, 4/22];
+#listLog= [0,0,0, 0,0,0, 0];
+#listLong=[]
+
+
+        logbn = 0
+        entropia = 0
+        for i in range(len(listPi)):
+        logbn= -math.log(listPi[i])/math.log(2)
+        listLog[i] = logbn
+
+
+        for i in range(len(listPi)):
+        entropia += listPi[i]*listLog[i]
+
+        print("El resultado es: ", entropia)*/
 
     }
 }

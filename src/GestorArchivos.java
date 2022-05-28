@@ -1,5 +1,8 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
+import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -112,9 +115,28 @@ public class GestorArchivos {
         }
     }
     public void imprimirMatriz(){
-        for (int i = 0; i < simbolos.size(); i++) {
-            System.out.println(matrizDato[0][i]+" -> "+ matrizDato[1][i] + ", Probabilidad: " + matrizDato[1][i] + "/" + datosArchivo.size());
+        String dato;
+        try {
+            String ruta = "C:/GitHub/Teoria_Informacion/CuloRoto.txt";
+            File file = new File(ruta);
+            // Si el archivo no existe es creado
+            if (!file.exists()) {
+                file.createNewFile();
+            }
+            FileWriter fw = new FileWriter(file);
+            BufferedWriter bw = new BufferedWriter(fw);
+            for (int i = 0; i < simbolos.size(); i++) {
+                dato = matrizDato[0][i]+" -> "+ matrizDato[1][i] + ", Probabilidad: " + matrizDato[1][i] + "/" + datosArchivo.size();
+                System.out.println(matrizDato[0][i]+" -> "+ matrizDato[1][i] + ", Probabilidad: " + matrizDato[1][i] + "/" + datosArchivo.size());
+                //meter en el archivo
+                bw.write(dato+"\n");
+            }
+            bw.write("\n");
+            bw.close();
+        } catch (Exception e) {
+            e.printStackTrace();
         }
+
     }
 
     public void generarListaTuplas (ListaTupla listaTupla){
@@ -135,6 +157,26 @@ public class GestorArchivos {
                 return matrizDato[1][i];
         }
         return -1;
+    }
+
+    public double calcularEntropia(){
+        double datoParce = 0.0;
+        double logBn= 0.0;
+        for (int i = 0; i < simbolos.size(); i++) {
+            datoParce = (double) matrizDato[1][i]/datosArchivo.size();
+            logBn +=-Math.log(datoParce)/Math.log(2.0) * datoParce;
+        }
+        return logBn;
+    }
+
+    public double calcularLongitudMedia(ListaCodigo listaCodigo){
+        double datoParce = 0.0;
+        double longMedia = 0.0;
+        for (int i = 0; i < simbolos.size(); i++) {
+            datoParce = (double) matrizDato[1][i] / datosArchivo.size();
+            longMedia += datoParce* listaCodigo.cantidadBits(matrizDato[0][i]);
+        }
+        return  longMedia;
     }
 
     public int calcularEspacio (ListaCodigo listaCodigos){

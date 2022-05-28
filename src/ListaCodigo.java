@@ -28,6 +28,14 @@ public class ListaCodigo {
         return listaCodigos.get(pos);
     }
 
+    public int cantidadBits(int referencia){
+        for (int i = 0; i < listaCodigos.size(); i++) {
+            if (referencia == listaCodigos.get(i).getTuplaAsociada().getSimboloAsociado())
+                return listaCodigos.get(i).getCantBits();
+        }
+        return -1;
+    }
+
 
     public void imprimirListaCodigo(){
         for (int i = 0; i < listaCodigos.size(); i++) {
