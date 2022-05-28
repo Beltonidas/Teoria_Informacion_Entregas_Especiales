@@ -1,1 +1,19 @@
+4 -> 40, Probabilidad: 40/83
+2 -> 1, Probabilidad: 1/83
+3 -> 35, Probabilidad: 35/83
+5 -> 1, Probabilidad: 1/83
+6 -> 1, Probabilidad: 1/83
+7 -> 1, Probabilidad: 1/83
+8 -> 1, Probabilidad: 1/83
+9 -> 1, Probabilidad: 1/83
+10 -> 2, Probabilidad: 2/83
+
+0--> Representación del simbolo : 4
+11--> Representación del simbolo : 3
+1001--> Representación del simbolo : 10
+10101--> Representación del simbolo : 2
+10100--> Representación del simbolo : 5
+10111--> Representación del simbolo : 6
+10110--> Representación del simbolo : 7
+10001--> Representación del simbolo : 8
 10000--> Representación del simbolo : 9
