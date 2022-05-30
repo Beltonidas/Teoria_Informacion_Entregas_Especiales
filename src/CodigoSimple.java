@@ -56,7 +56,7 @@ public class CodigoSimple {
         dato = codigo + "--> " +dato;
         // sin pisar lo demas tenes que guardar esto
         try {
-            String ruta = "C:/GitHub/Teoria_Informacion/CuloRoto.txt";
+            String ruta = "C:/GitHub/Teoria_Informacion/Prueba_datos_exp_2.txt";
             File file = new File(ruta);
             // Si el archivo no existe es creado
             if (!file.exists()) {

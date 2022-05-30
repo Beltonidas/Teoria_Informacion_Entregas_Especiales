@@ -117,7 +117,7 @@ public class GestorArchivos {
     public void imprimirMatriz(){
         String dato;
         try {
-            String ruta = "C:/GitHub/Teoria_Informacion/CuloRoto.txt";
+            String ruta = "C:/GitHub/Teoria_Informacion/Prueba_datos_exp_2.txt";
             File file = new File(ruta);
             // Si el archivo no existe es creado
             if (!file.exists()) {

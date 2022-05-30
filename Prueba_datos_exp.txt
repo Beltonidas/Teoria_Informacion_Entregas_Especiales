@@ -1,0 +1,297 @@
+380 -> 32, Probabilidad: 32/1000
+370 -> 25, Probabilidad: 25/1000
+360 -> 1, Probabilidad: 1/1000
+400 -> 19, Probabilidad: 19/1000
+390 -> 24, Probabilidad: 24/1000
+410 -> 22, Probabilidad: 22/1000
+420 -> 4, Probabilidad: 4/1000
+430 -> 4, Probabilidad: 4/1000
+440 -> 10, Probabilidad: 10/1000
+460 -> 27, Probabilidad: 27/1000
+450 -> 19, Probabilidad: 19/1000
+470 -> 17, Probabilidad: 17/1000
+480 -> 8, Probabilidad: 8/1000
+490 -> 2, Probabilidad: 2/1000
+510 -> 12, Probabilidad: 12/1000
+520 -> 2, Probabilidad: 2/1000
+540 -> 12, Probabilidad: 12/1000
+530 -> 6, Probabilidad: 6/1000
+550 -> 11, Probabilidad: 11/1000
+570 -> 11, Probabilidad: 11/1000
+560 -> 11, Probabilidad: 11/1000
+580 -> 21, Probabilidad: 21/1000
+590 -> 41, Probabilidad: 41/1000
+600 -> 22, Probabilidad: 22/1000
+620 -> 9, Probabilidad: 9/1000
+610 -> 22, Probabilidad: 22/1000
+500 -> 4, Probabilidad: 4/1000
+630 -> 8, Probabilidad: 8/1000
+640 -> 9, Probabilidad: 9/1000
+650 -> 16, Probabilidad: 16/1000
+660 -> 6, Probabilidad: 6/1000
+690 -> 1, Probabilidad: 1/1000
+680 -> 1, Probabilidad: 1/1000
+700 -> 1, Probabilidad: 1/1000
+710 -> 2, Probabilidad: 2/1000
+730 -> 10, Probabilidad: 10/1000
+740 -> 6, Probabilidad: 6/1000
+720 -> 6, Probabilidad: 6/1000
+750 -> 2, Probabilidad: 2/1000
+770 -> 2, Probabilidad: 2/1000
+780 -> 2, Probabilidad: 2/1000
+790 -> 1, Probabilidad: 1/1000
+820 -> 1, Probabilidad: 1/1000
+870 -> 1, Probabilidad: 1/1000
+930 -> 1, Probabilidad: 1/1000
+950 -> 1, Probabilidad: 1/1000
+970 -> 2, Probabilidad: 2/1000
+1090 -> 2, Probabilidad: 2/1000
+1010 -> 2, Probabilidad: 2/1000
+1000 -> 2, Probabilidad: 2/1000
+1110 -> 4, Probabilidad: 4/1000
+990 -> 1, Probabilidad: 1/1000
+1030 -> 4, Probabilidad: 4/1000
+1020 -> 3, Probabilidad: 3/1000
+1080 -> 3, Probabilidad: 3/1000
+1070 -> 3, Probabilidad: 3/1000
+1100 -> 2, Probabilidad: 2/1000
+1140 -> 1, Probabilidad: 1/1000
+1190 -> 5, Probabilidad: 5/1000
+1180 -> 6, Probabilidad: 6/1000
+1200 -> 3, Probabilidad: 3/1000
+1210 -> 7, Probabilidad: 7/1000
+1220 -> 9, Probabilidad: 9/1000
+1270 -> 4, Probabilidad: 4/1000
+1250 -> 6, Probabilidad: 6/1000
+1150 -> 3, Probabilidad: 3/1000
+1290 -> 3, Probabilidad: 3/1000
+1320 -> 11, Probabilidad: 11/1000
+1330 -> 7, Probabilidad: 7/1000
+1310 -> 5, Probabilidad: 5/1000
+1300 -> 5, Probabilidad: 5/1000
+1130 -> 2, Probabilidad: 2/1000
+1050 -> 1, Probabilidad: 1/1000
+1120 -> 3, Probabilidad: 3/1000
+1060 -> 1, Probabilidad: 1/1000
+1230 -> 11, Probabilidad: 11/1000
+1160 -> 2, Probabilidad: 2/1000
+1260 -> 5, Probabilidad: 5/1000
+1240 -> 5, Probabilidad: 5/1000
+1380 -> 4, Probabilidad: 4/1000
+1420 -> 4, Probabilidad: 4/1000
+1410 -> 1, Probabilidad: 1/1000
+1390 -> 3, Probabilidad: 3/1000
+1370 -> 7, Probabilidad: 7/1000
+1340 -> 8, Probabilidad: 8/1000
+1170 -> 3, Probabilidad: 3/1000
+1360 -> 4, Probabilidad: 4/1000
+1350 -> 7, Probabilidad: 7/1000
+1430 -> 5, Probabilidad: 5/1000
+1440 -> 3, Probabilidad: 3/1000
+1400 -> 1, Probabilidad: 1/1000
+1280 -> 3, Probabilidad: 3/1000
+1470 -> 5, Probabilidad: 5/1000
+1520 -> 9, Probabilidad: 9/1000
+1540 -> 2, Probabilidad: 2/1000
+1530 -> 5, Probabilidad: 5/1000
+1550 -> 4, Probabilidad: 4/1000
+1640 -> 8, Probabilidad: 8/1000
+1630 -> 9, Probabilidad: 9/1000
+1690 -> 9, Probabilidad: 9/1000
+1660 -> 7, Probabilidad: 7/1000
+1650 -> 3, Probabilidad: 3/1000
+1600 -> 5, Probabilidad: 5/1000
+1720 -> 8, Probabilidad: 8/1000
+1730 -> 7, Probabilidad: 7/1000
+1670 -> 5, Probabilidad: 5/1000
+1700 -> 6, Probabilidad: 6/1000
+1680 -> 9, Probabilidad: 9/1000
+1710 -> 9, Probabilidad: 9/1000
+1620 -> 6, Probabilidad: 6/1000
+1590 -> 8, Probabilidad: 8/1000
+1560 -> 6, Probabilidad: 6/1000
+1610 -> 6, Probabilidad: 6/1000
+1740 -> 9, Probabilidad: 9/1000
+1780 -> 14, Probabilidad: 14/1000
+1770 -> 13, Probabilidad: 13/1000
+1800 -> 17, Probabilidad: 17/1000
+1790 -> 13, Probabilidad: 13/1000
+1750 -> 7, Probabilidad: 7/1000
+1760 -> 8, Probabilidad: 8/1000
+1850 -> 8, Probabilidad: 8/1000
+1830 -> 10, Probabilidad: 10/1000
+1810 -> 18, Probabilidad: 18/1000
+1840 -> 11, Probabilidad: 11/1000
+1820 -> 12, Probabilidad: 12/1000
+1910 -> 7, Probabilidad: 7/1000
+1900 -> 4, Probabilidad: 4/1000
+1920 -> 4, Probabilidad: 4/1000
+1940 -> 5, Probabilidad: 5/1000
+1930 -> 3, Probabilidad: 3/1000
+1970 -> 1, Probabilidad: 1/1000
+1960 -> 2, Probabilidad: 2/1000
+1950 -> 3, Probabilidad: 3/1000
+2010 -> 1, Probabilidad: 1/1000
+2000 -> 2, Probabilidad: 2/1000
+2030 -> 1, Probabilidad: 1/1000
+1870 -> 3, Probabilidad: 3/1000
+1500 -> 5, Probabilidad: 5/1000
+1450 -> 1, Probabilidad: 1/1000
+1480 -> 2, Probabilidad: 2/1000
+1460 -> 4, Probabilidad: 4/1000
+1490 -> 2, Probabilidad: 2/1000
+1510 -> 2, Probabilidad: 2/1000
+1570 -> 5, Probabilidad: 5/1000
+1880 -> 2, Probabilidad: 2/1000
+1890 -> 1, Probabilidad: 1/1000
+1860 -> 2, Probabilidad: 2/1000
+1580 -> 1, Probabilidad: 1/1000
+
+11100--> Representación del simbolo : 590
+10100--> Representación del simbolo : 380
+01011--> Representación del simbolo : 460
+01001--> Representación del simbolo : 370
+00011--> Representación del simbolo : 390
+111101--> Representación del simbolo : 410
+111100--> Representación del simbolo : 600
+111111--> Representación del simbolo : 610
+111011--> Representación del simbolo : 580
+110011--> Representación del simbolo : 400
+110010--> Representación del simbolo : 450
+101111--> Representación del simbolo : 1810
+101100--> Representación del simbolo : 470
+101011--> Representación del simbolo : 1800
+011111--> Representación del simbolo : 650
+011001--> Representación del simbolo : 1780
+010100--> Representación del simbolo : 1770
+010001--> Representación del simbolo : 1790
+010000--> Representación del simbolo : 510
+001101--> Representación del simbolo : 540
+001100--> Representación del simbolo : 1820
+000001--> Representación del simbolo : 550
+000000--> Representación del simbolo : 570
+000011--> Representación del simbolo : 560
+000010--> Representación del simbolo : 1320
+1111101--> Representación del simbolo : 1230
+1111100--> Representación del simbolo : 1840
+1110100--> Representación del simbolo : 440
+1101101--> Representación del simbolo : 730
+1101100--> Representación del simbolo : 1830
+1011011--> Representación del simbolo : 620
+1011010--> Representación del simbolo : 640
+1100001--> Representación del simbolo : 1220
+1100000--> Representación del simbolo : 1520
+1100011--> Representación del simbolo : 1630
+1100010--> Representación del simbolo : 1690
+1011101--> Representación del simbolo : 1680
+1011100--> Representación del simbolo : 1710
+1010101--> Representación del simbolo : 1740
+1010100--> Representación del simbolo : 480
+0111011--> Representación del simbolo : 630
+0111010--> Representación del simbolo : 1340
+1000101--> Representación del simbolo : 1640
+1000100--> Representación del simbolo : 1720
+1000111--> Representación del simbolo : 1590
+1000110--> Representación del simbolo : 1760
+1000001--> Representación del simbolo : 1850
+0111000--> Representación del simbolo : 1210
+0110101--> Representación del simbolo : 1330
+0110100--> Representación del simbolo : 1370
+0110111--> Representación del simbolo : 1350
+0110110--> Representación del simbolo : 1660
+0110001--> Representación del simbolo : 1730
+0110000--> Representación del simbolo : 1750
+0101011--> Representación del simbolo : 1910
+0101010--> Representación del simbolo : 530
+0001001--> Representación del simbolo : 660
+0001000--> Representación del simbolo : 740
+0001011--> Representación del simbolo : 720
+0001010--> Representación del simbolo : 1180
+0010101--> Representación del simbolo : 1250
+0010100--> Representación del simbolo : 1700
+0010111--> Representación del simbolo : 1620
+0010110--> Representación del simbolo : 1560
+0010001--> Representación del simbolo : 1610
+11101010--> Representación del simbolo : 1190
+11010101--> Representación del simbolo : 1310
+11010100--> Representación del simbolo : 1300
+11010111--> Representación del simbolo : 1260
+11010110--> Representación del simbolo : 1240
+11010001--> Representación del simbolo : 1430
+11010000--> Representación del simbolo : 1470
+11010011--> Representación del simbolo : 1530
+11010010--> Representación del simbolo : 1600
+11011101--> Representación del simbolo : 1670
+11011100--> Representación del simbolo : 1940
+11011111--> Representación del simbolo : 1500
+11011110--> Representación del simbolo : 1570
+01110011--> Representación del simbolo : 420
+01110010--> Representación del simbolo : 430
+01111001--> Representación del simbolo : 500
+01111000--> Representación del simbolo : 1110
+01111011--> Representación del simbolo : 1030
+01111010--> Representación del simbolo : 1270
+10010101--> Representación del simbolo : 1380
+10010100--> Representación del simbolo : 1420
+10010111--> Representación del simbolo : 1360
+10010110--> Representación del simbolo : 1550
+10010001--> Representación del simbolo : 1900
+10010000--> Representación del simbolo : 1920
+10010011--> Representación del simbolo : 1460
+111010111--> Representación del simbolo : 1020
+111010110--> Representación del simbolo : 1080
+00111101--> Representación del simbolo : 1070
+00111100--> Representación del simbolo : 1200
+00111111--> Representación del simbolo : 1150
+00111110--> Representación del simbolo : 1290
+00111001--> Representación del simbolo : 1120
+00111000--> Representación del simbolo : 1390
+00111011--> Representación del simbolo : 1170
+00111010--> Representación del simbolo : 1440
+00100101--> Representación del simbolo : 1280
+00100100--> Representación del simbolo : 1650
+00100111--> Representación del simbolo : 1930
+00100110--> Representación del simbolo : 1950
+00100001--> Representación del simbolo : 1870
+100000001--> Representación del simbolo : 490
+100000000--> Representación del simbolo : 520
+100000011--> Representación del simbolo : 710
+100000010--> Representación del simbolo : 750
+100001101--> Representación del simbolo : 770
+100001100--> Representación del simbolo : 780
+100001111--> Representación del simbolo : 970
+100001110--> Representación del simbolo : 1090
+100001001--> Representación del simbolo : 1010
+100001000--> Representación del simbolo : 1000
+100001011--> Representación del simbolo : 1100
+100001010--> Representación del simbolo : 1130
+100110101--> Representación del simbolo : 1160
+100110100--> Representación del simbolo : 1540
+100110111--> Representación del simbolo : 1960
+100110110--> Representación del simbolo : 2000
+100110001--> Representación del simbolo : 1480
+100110000--> Representación del simbolo : 1490
+100110011--> Representación del simbolo : 1510
+100110010--> Representación del simbolo : 1880
+100111101--> Representación del simbolo : 1860
+001000000--> Representación del simbolo : 360
+0010000011--> Representación del simbolo : 690
+0010000010--> Representación del simbolo : 680
+1001001001--> Representación del simbolo : 700
+1001001000--> Representación del simbolo : 790
+1001001011--> Representación del simbolo : 820
+1001001010--> Representación del simbolo : 870
+1001110101--> Representación del simbolo : 930
+1001110100--> Representación del simbolo : 950
+1001110111--> Representación del simbolo : 990
+1001110110--> Representación del simbolo : 1140
+1001110001--> Representación del simbolo : 1050
+1001110000--> Representación del simbolo : 1060
+1001110011--> Representación del simbolo : 1410
+1001110010--> Representación del simbolo : 1400
+1001111101--> Representación del simbolo : 1970
+1001111100--> Representación del simbolo : 2010
+1001111111--> Representación del simbolo : 2030
+1001111110--> Representación del simbolo : 1450
+1001111001--> Representación del simbolo : 1890
+1001111000--> Representación del simbolo : 1580
