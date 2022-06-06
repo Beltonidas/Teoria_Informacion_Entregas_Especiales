@@ -1,0 +1,9 @@
+1 -> 23, Probabilidad: 23/48
+0 -> 23, Probabilidad: 23/48
+3 -> 1, Probabilidad: 1/48
+4 -> 1, Probabilidad: 1/48
+
+0--> Representación del simbolo : 1
+11--> Representación del simbolo : 0
+101--> Representación del simbolo : 3
+100--> Representación del simbolo : 4

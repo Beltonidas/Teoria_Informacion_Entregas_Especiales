@@ -25,7 +25,7 @@ public class Main {
 
         /*------CLASE GESTORARCHIVOS--------*/
         GestorArchivos gestorArchivos = new GestorArchivos();
-        gestorArchivos.leerDatos("C:/GitHub/Teoria_Informacion/Beethoven.txt");
+        gestorArchivos.leerDatos("C:/GitHub/Teoria_Informacion/Prueba.txt");
         System.out.println(gestorArchivos.cantSimbolos());
         int cantidadSimbolos = gestorArchivos.cantSimbolos();
         //Necesito saber la cantidad de simbolos distintos que tengo para poder generar mi matriz

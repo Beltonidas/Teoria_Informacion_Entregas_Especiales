@@ -36,7 +36,6 @@ public class ListaCodigo {
         return -1;
     }
 
-
     public void imprimirListaCodigo(){
         for (int i = 0; i < listaCodigos.size(); i++) {
             System.out.print(listaCodigos.get(i).getTuplaAsociada().getProbabilidadSigno() + " --> ");
